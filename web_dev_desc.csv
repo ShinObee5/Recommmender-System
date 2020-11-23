@@ -1,0 +1,546 @@
+,Title,HeadLine,Instructors,Rating,Tags,Reviews,AddInfo,Links,Description
+0,The Web Developer Bootcamp 2020,Not Available,Colt Steele,4.7,Not Available,"(187,102)",Not Available,https://www.udemy.com/course/the-web-developer-bootcamp/,"Create applications using Nodejs
+Build Scalable and lightweight web applications
+Learn the use of technologies such as Cassandra and MongoDB
+Understand the coding principles behind practical web applications
+Use the Express Framework to build web applications
+Learn the concepts of network programming"
+1,Angular - The Complete Guide (2020 Edition),Not Available,Maximilian Schwarzmüller,4.6,Bestseller,"(132,916)",Not Available,https://www.udemy.com/course/the-complete-guide-to-angular-2/,
+2,The Complete JavaScript Course 2020: From Zero to Expert!,Not Available,Jonas Schmedtmann,4.6,Bestseller,"(87,346)",Not Available,https://www.udemy.com/course/the-complete-javascript-course/,
+3,,Not Available,,,Not Available,,Not Available,https://www.udemy.com/course/how-to-become-a-web-developer-from-scratch/,
+4,The Web Developer Bootcamp 2020,Not Available,Not Available,4.7,Not Available,"(187,102)",Not Available,https://www.udemy.com/course/the-web-developer-bootcamp/,
+5,"Git Complete: The definitive, step-by-step guide to Git",Not Available,Not Available,4.4,Not Available,"(14,252)",Not Available,https://www.udemy.com/course/git-complete/,
+6,The Web Developer Bootcamp 2020,"COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More!",Colt Steele,4.7,Not Available,"(187,102)","61.5 total hours
+605 lectures
+All Levels",https://www.udemy.com/course/the-web-developer-bootcamp/,
+7,Angular - The Complete Guide (2020 Edition),"Master Angular 10 (formerly ""Angular 2"") and build awesome, reactive web apps with the successor of Angular.js",Maximilian Schwarzmüller,4.6,Bestseller,"(132,916)","33.5 total hours
+455 lectures
+All Levels",https://www.udemy.com/course/the-complete-guide-to-angular-2/,
+8,The Complete 2020 Web Development Bootcamp,"Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more!",Dr. Angela Yu,4.7,Bestseller,"(96,648)","54 total hours
+469 lectures
+All Levels",https://www.udemy.com/course/the-complete-web-development-bootcamp/,
+9,The Complete JavaScript Course 2020: From Zero to Expert!,"The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",Jonas Schmedtmann,4.6,Bestseller,"(87,346)","95 total hours
+476 lectures
+All Levels",https://www.udemy.com/course/the-complete-javascript-course/,
+10,The Complete Web Developer Course 2.0,"Learn Web Development by building 25 websites and mobile apps using HTML, CSS, Javascript, PHP, Python, MySQL & more!","Rob Percival, Codestars by Rob Percival",4.5,Not Available,"(63,893)","30.5 total hours
+308 lectures
+All Levels",https://www.udemy.com/course/the-complete-web-developer-course-2/,
+11,Modern React with Redux [2020 Update],"Master React v16.6.3 and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!",Stephen Grider,4.7,Bestseller,"(62,375)","52.5 total hours
+559 lectures
+All Levels",https://www.udemy.com/course/react-redux/,
+12,Build Responsive Real World Websites with HTML5 and CSS3,"The easiest way to learn modern web design, HTML5 and CSS3 step-by-step from scratch. Design AND code a huge project.",Jonas Schmedtmann,4.6,Bestseller,"(46,148)","12 total hours
+77 lectures
+All Levels",https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/,
+13,"Vue - The Complete Guide (w/ Router, Vuex, Composition API)",Vue.js is an awesome JavaScript Framework for building Frontend Applications! VueJS mixes the Best of Angular + React!,Maximilian Schwarzmüller,4.7,Bestseller,"(42,473)","49 total hours
+668 lectures
+All Levels",https://www.udemy.com/course/vuejs-2-the-complete-guide/,
+14,The Complete Web Developer in 2021: Zero to Mastery,"Learn to code and become a Web Developer in 2021 with HTML, CSS, Javascript, React, Node.js, Machine Learning & more!",Andrei Neagoie,4.7,Not Available,"(42,313)","37 total hours
+370 lectures
+All Levels",https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/,
+15,JavaScript: Understanding the Weird Parts,"An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this', build your own framework, and more.",Anthony Alicea,4.7,Not Available,"(39,553)","11.5 total hours
+85 lectures
+All Levels",https://www.udemy.com/course/understand-javascript/,
+16,Python and Django Full Stack Web Developer Bootcamp,"Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!",Jose Portilla,4.5,Bestseller,"(34,799)","32 total hours
+198 lectures
+All Levels",https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/,
+17,"Advanced CSS and Sass: Flexbox, Grid, Animations and More!","The most advanced and modern CSS course on the internet: master flexbox, CSS Grid, responsive design, and so much more.",Jonas Schmedtmann,4.8,Bestseller,"(26,103)","28 total hours
+126 lectures
+Intermediate",https://www.udemy.com/course/advanced-css-and-sass/,
+18,The Complete ASP.NET MVC 5 Course,"Learn to build fast and secure web applications with ASP.NET MVC 5 - The most popular course with 40,000+ students!",Mosh Hamedani,4.4,Bestseller,"(25,718)","7.5 total hours
+139 lectures
+All Levels",https://www.udemy.com/course/the-complete-aspnet-mvc-5-course/,
+19,Learn and Understand NodeJS,"Dive deep under the hood of NodeJS. Learn V8, Express, the MEAN stack, core Javascript concepts, and more.",Anthony Alicea,4.6,Not Available,"(24,147)","13 total hours
+97 lectures
+All Levels",https://www.udemy.com/course/understand-nodejs/,
+20,Master Microservices with Spring Boot and Spring Cloud,"An awesome journey from Restful Web Services ( REST API ) to Microservices with Java, Spring Boot and Spring Cloud",in28Minutes Official,4.4,Bestseller,"(22,597)","11 total hours
+141 lectures
+All Levels",https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/,
+21,Modern JavaScript From The Beginning,Learn and build projects with pure JavaScript (No frameworks or libraries),Brad Traversy,4.7,Not Available,"(22,187)","21.5 total hours
+122 lectures
+All Levels",https://www.udemy.com/course/modern-javascript-from-the-beginning/,
+22,The Web Developer Bootcamp 2020,Not Available,Colt Steele,4.7,Not Available,"(187,102)",Not Available,https://www.udemy.com/course/the-web-developer-bootcamp/,
+23,Angular - The Complete Guide (2020 Edition),Not Available,Maximilian Schwarzmüller,4.6,Bestseller,"(132,916)",Not Available,https://www.udemy.com/course/the-complete-guide-to-angular-2/,
+24,The Complete JavaScript Course 2020: From Zero to Expert!,Not Available,Jonas Schmedtmann,4.6,Bestseller,"(87,346)",Not Available,https://www.udemy.com/course/the-complete-javascript-course/,
+25,,Not Available,,,Not Available,,Not Available,https://www.udemy.com/course/how-to-become-a-web-developer-from-scratch/,
+26,The Web Developer Bootcamp 2020,Not Available,Not Available,4.7,Not Available,"(187,102)",Not Available,https://www.udemy.com/course/the-web-developer-bootcamp/,
+27,"Git Complete: The definitive, step-by-step guide to Git",Not Available,Not Available,4.4,Not Available,"(14,252)",Not Available,https://www.udemy.com/course/git-complete/,
+28,The Complete Angular Course: Beginner to Advanced,"The most comprehensive Angular 4 (Angular 2+) course. Build a real e-commerce app with Angular, Firebase and Bootstrap 4",Mosh Hamedani,4.4,Not Available,"(21,903)","29.5 total hours
+376 lectures
+All Levels",https://www.udemy.com/course/the-complete-angular-master-class/,
+29,Learn and Understand AngularJS,"Master AngularJS and the Javascript concepts behind it, design custom directives, and build a single page application.",Anthony Alicea,4.5,Bestseller,"(19,245)","7 total hours
+55 lectures
+All Levels",https://www.udemy.com/course/learn-angularjs/,
+30,Angular & NodeJS - The MEAN Stack Guide [2020 Edition],Learn how to connect your Angular Frontend to a NodeJS & Express & MongoDB Backend by building a real Application,Maximilian Schwarzmüller,4.6,Bestseller,"(18,303)","13 total hours
+151 lectures
+All Levels",https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/,
+31,PHP for Beginners - Become a PHP Master - CMS Project,PHP for Beginners: learn everything you need to become a professional PHP developer with practical exercises & projects.,"Edwin Diaz, Coding Faculty Solutions",4.5,Bestseller,"(17,916)","37.5 total hours
+340 lectures
+All Levels",https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/,
+32,The Complete React Developer Course (w/ Hooks and Redux),"Learn how to build and launch React web applications using React, Redux, Webpack, React-Router, and more!",Andrew Mead,4.7,Not Available,"(17,658)","39 total hours
+200 lectures
+Beginner",https://www.udemy.com/course/react-2nd-edition/,
+33,Understanding TypeScript - 2020 Edition,"Don't limit the Usage of TypeScript to Angular! Learn the Basics, its Features, Workflows and how to use it!",Maximilian Schwarzmüller,4.7,Bestseller,"(17,383)","15 total hours
+198 lectures
+All Levels",https://www.udemy.com/course/understanding-typescript/,
+34,Python for beginners,Master the fundamentals of Python while working on various usecases in easy steps,Bharath Thippireddy,4.5,Not Available,"(16,693)","10 total hours
+229 lectures
+All Levels",https://www.udemy.com/course/python-core-and-advanced/,
+35,Angular Crash Course for Busy Developers,Have limited time to learn Angular 4 (Angular 2+)? Take this course and learn Angular in 10 hours!,Mosh Hamedani,4.5,Not Available,"(15,734)","10.5 total hours
+137 lectures
+All Levels",https://www.udemy.com/course/angular-crash-course/,
+36,Modern HTML & CSS From The Beginning (Including Sass),"Build modern responsive websites & UIs with HTML5, CSS3 & Sass! Learn Flex & CSS Grid",Brad Traversy,4.7,Not Available,"(14,426)","21 total hours
+129 lectures
+All Levels",https://www.udemy.com/course/modern-html-css-from-the-beginning/,
+37,Learn HTML5 Programming From Scratch,A Complete HTML5 Programming Course for Beginners,"Eduonix Learning Solutions, Eduonix-Tech .",4.4,Not Available,"(14,204)","17 total hours
+72 lectures
+All Levels",https://www.udemy.com/course/learn-html5-programming-from-scratch/,
+38,Web Design for Beginners: Real World Coding in HTML & CSS,"Launch a career as a web designer by learning HTML5, CSS3, responsive design, Sass and more!",Brad Schiff,4.7,Bestseller,"(13,479)","11 total hours
+71 lectures
+All Levels",https://www.udemy.com/course/web-design-for-beginners-real-world-coding-in-html-css/,
+39,Bootstrap 4 From Scratch With 5 Projects,Master Bootstrap 4 and build 5 real world themes while learning HTML5 semantics & CSS3,Brad Traversy,4.7,Bestseller,"(12,983)","11.5 total hours
+74 lectures
+All Levels",https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/,
+40,Build an app with ASPNET Core and Angular from scratch,A practical example of how to build an application with ASP.NET Core API (.Net 5.0) and Angular 10 from start to finish,Neil Cummings,4.6,Bestseller,"(12,891)","57.5 total hours
+476 lectures
+Beginner",https://www.udemy.com/course/build-an-app-with-aspnet-core-and-angular-from-scratch/,
+41,The Complete WordPress Website Business Course,"Master WordPress with this Complete WordPress Course, without learning how to code and without any programming!","Rob Percival, Gregg Davis, Codestars by Rob Percival",4.4,Not Available,"(12,877)","22 total hours
+113 lectures
+All Levels",https://www.udemy.com/course/the-complete-wordpress-website-business-course/,
+42,Become a WordPress Developer: Unlocking Power With Code,"Learn PHP, JavaScript, WordPress theming & the WP REST API to Create Custom & Interactive WordPress Websites",Brad Schiff,4.7,Bestseller,"(12,570)","26.5 total hours
+125 lectures
+All Levels",https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/,
+43,Node with React: Fullstack Web Development,"Build and deploy fullstack web apps with NodeJS, React, Redux, Express, and MongoDB.",Stephen Grider,4.7,Not Available,"(12,321)","26 total hours
+210 lectures
+All Levels",https://www.udemy.com/course/node-with-react-fullstack-web-development/,
+44,The Web Developer Bootcamp 2020,Not Available,Colt Steele,4.7,Not Available,"(187,102)",Not Available,https://www.udemy.com/course/the-web-developer-bootcamp/,
+45,Angular - The Complete Guide (2020 Edition),Not Available,Maximilian Schwarzmüller,4.6,Bestseller,"(132,916)",Not Available,https://www.udemy.com/course/the-complete-guide-to-angular-2/,
+46,The Complete JavaScript Course 2020: From Zero to Expert!,Not Available,Jonas Schmedtmann,4.6,Bestseller,"(87,346)",Not Available,https://www.udemy.com/course/the-complete-javascript-course/,
+47,,Not Available,,,Not Available,,Not Available,https://www.udemy.com/course/how-to-become-a-web-developer-from-scratch/,
+48,The Web Developer Bootcamp 2020,Not Available,Not Available,4.7,Not Available,"(187,102)",Not Available,https://www.udemy.com/course/the-web-developer-bootcamp/,
+49,"Git Complete: The definitive, step-by-step guide to Git",Not Available,Not Available,4.4,Not Available,"(14,252)",Not Available,https://www.udemy.com/course/git-complete/,
+50,Ultimate Web Designer & Developer Course: Build 23 Projects!,Become a Full-Stack Developer - Learn Everything from Design to Front & Back-End Programming.,"Brad Hussey, Code College",4.5,Not Available,"(11,554)","32.5 total hours
+246 lectures
+All Levels",https://www.udemy.com/course/web-developer-course/,
+51,REST APIs with Flask and Python,"Build professional REST APIs with Python, Flask, Flask-RESTful, and Flask-SQLAlchemy","Jose Salvatierra, Teclado by Jose Salvatierra",4.6,Bestseller,"(11,552)","17 total hours
+156 lectures
+Intermediate",https://www.udemy.com/course/rest-api-flask-and-python/,
+52,"MERN Stack Front To Back: Full Stack React, Redux & Node.js","Build and deploy a social network with Node.js, Express, React, Redux & MongoDB. Fully updated April 2019",Brad Traversy,4.7,Not Available,"(11,453)","12 total hours
+73 lectures
+Intermediate",https://www.udemy.com/course/mern-stack-front-to-back/,
+53,The Complete Ruby on Rails Developer Course,Learn to make innovative web apps with Ruby on Rails and unleash your creativity,"Rob Percival, Mashrur Hossain, Codestars by Rob Percival",4.5,Bestseller,"(11,270)","48 total hours
+432 lectures
+All Levels",https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/,
+54,Ethereum and Solidity: The Complete Developer's Guide,"Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based on the blockchain",Stephen Grider,4.5,Bestseller,"(11,097)","24 total hours
+250 lectures
+All Levels",https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/,
+55,Docker Crash Course for busy DevOps and Developers,Learn how to develop and deploy web applications with Docker technologies. Take your DevOps skills to the next level.,"Tao W., Level Up, James Lee",4.4,Not Available,"(11,036)","3 total hours
+49 lectures
+All Levels",https://www.udemy.com/course/docker-tutorial-for-devops-run-docker-containers/,
+56,The Coding Interview Bootcamp: Algorithms + Data Structures,Ace your next Javascript coding interview by mastering data structures and algorithms.,Stephen Grider,4.7,Not Available,"(10,994)","13 total hours
+135 lectures
+All Levels",https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/,
+57,"Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)","Become a Senior React Developer! Build a massive E-commerce app with Redux, Hooks, GraphQL, ContextAPI, Stripe, Firebase","Andrei Neagoie, Yihua Zhang",4.7,Not Available,"(10,822)","40.5 total hours
+356 lectures
+All Levels",https://www.udemy.com/course/complete-react-developer-zero-to-mastery/,
+58,The Modern JavaScript Bootcamp,"Learn JavaScript by building real-world apps. Includes 3 real-world projects, 80 programming challenges, and ES6/ES7!",Andrew Mead,4.8,Not Available,"(9,989)","29.5 total hours
+155 lectures
+All Levels",https://www.udemy.com/course/modern-javascript/,
+59,The Complete Front-End Web Development Course!,"Get started as a front-end web developer using HTML, CSS, JavaScript, jQuery, and Bootstrap!","Joseph Delgadillo, Nick Germaine",4.4,Not Available,"(9,862)","17 total hours
+126 lectures
+All Levels",https://www.udemy.com/course/front-end-web-development/,
+60,Advanced React and Redux,"Walkthroughs on advanced React v16.6.3 and Redux v4.0.0 - Authentication, Testing, Middlewares, HOC's, and Deployment",Stephen Grider,4.5,Not Available,"(9,472)","21 total hours
+239 lectures
+Intermediate",https://www.udemy.com/course/react-redux-tutorial/,
+61,Node.js: The Complete Guide to Build RESTful APIs (2018),"Learn to build fast, scalable and secure RESTful services with Node, Express and MongoDB, from setup to production",Mosh Hamedani,4.6,Bestseller,"(9,050)","15 total hours
+224 lectures
+Intermediate",https://www.udemy.com/course/nodejs-master-class/,
+62,ES6 Javascript: The Complete Developer's Guide,ES6 Javascript Development from scratch. Get practice with live examples and learn exactly where to apply ES6 features.,Stephen Grider,4.7,Not Available,"(9,006)","6 total hours
+68 lectures
+Beginner",https://www.udemy.com/course/javascript-es6-tutorial/,
+63,AWS Serverless APIs & Apps - A Complete Introduction,"Get into serverless computing with API Gateway, AWS Lambda and other Amazon Web Services! Zero server config APIs & SPAs","Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",4.7,Bestseller,"(8,992)","8 total hours
+142 lectures
+All Levels",https://www.udemy.com/course/aws-serverless-a-complete-introduction/,
+64,"Beginner Full Stack Web Development: HTML, CSS, React & Node","Learn web development with HTML, CSS, Bootstrap 4, ES6 React and Node","Mark Wahlbeck, Devslopes by Mark Wahlbeck",4.5,Bestseller,"(8,953)","31.5 total hours
+168 lectures
+Beginner",https://www.udemy.com/course/ultimate-web/,
+65,PHP with Laravel for beginners - Become a Master in Laravel,Learn to master Laravel to make advanced applications like the real CMS app we build on this course,"Edwin Diaz, Coding Faculty Solutions",4.4,Bestseller,"(8,928)","43 total hours
+407 lectures
+All Levels",https://www.udemy.com/course/php-with-laravel-for-beginners-become-a-master-in-laravel/,
+66,The Web Developer Bootcamp 2020,Not Available,Colt Steele,4.7,Not Available,"(187,102)",Not Available,https://www.udemy.com/course/the-web-developer-bootcamp/,
+67,Angular - The Complete Guide (2020 Edition),Not Available,Maximilian Schwarzmüller,4.6,Bestseller,"(132,916)",Not Available,https://www.udemy.com/course/the-complete-guide-to-angular-2/,
+68,The Complete JavaScript Course 2020: From Zero to Expert!,Not Available,Jonas Schmedtmann,4.6,Bestseller,"(87,346)",Not Available,https://www.udemy.com/course/the-complete-javascript-course/,
+69,,Not Available,,,Not Available,,Not Available,https://www.udemy.com/course/how-to-become-a-web-developer-from-scratch/,
+70,The Web Developer Bootcamp 2020,Not Available,Not Available,4.7,Not Available,"(187,102)",Not Available,https://www.udemy.com/course/the-web-developer-bootcamp/,
+71,"Git Complete: The definitive, step-by-step guide to Git",Not Available,Not Available,4.4,Not Available,"(14,252)",Not Available,https://www.udemy.com/course/git-complete/,
+72,Progressive Web Apps (PWA) - The Complete Guide,"Build a Progressive Web App (PWA) that feels like an iOS & Android App, using Device Camera, Push Notifications and more","Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",4.7,Bestseller,"(8,336)","16 total hours
+208 lectures
+All Levels",https://www.udemy.com/course/progressive-web-app-pwa-the-complete-guide/,
+73,The Advanced Web Developer Bootcamp,"Learn React 16, Redux, D3, ES2015, Testing, CSS Flexbox, Animations, SVG, AJAX, and more!","Colt Steele, Elie Schoppik, Tim Garcia, Matt Lane",4.3,Not Available,"(8,334)","34 total hours
+391 lectures
+Intermediate",https://www.udemy.com/course/the-advanced-web-developer-bootcamp/,
+74,Learn Object Oriented PHP By Building a Complete Website,Quick and Easy Guide to Master OOPs in PHP,"Eduonix Learning Solutions, Eduonix-Tech .",4.1,Not Available,"(7,509)","4.5 total hours
+33 lectures
+All Levels",https://www.udemy.com/course/learn-object-oriented-php-by-building-a-complete-website/,
+75,GraphQL with React: The Complete Developers Guide,Learn and master GraphQL by building real web apps with React and Node,Stephen Grider,4.6,Bestseller,"(7,186)","13.5 total hours
+115 lectures
+Intermediate",https://www.udemy.com/course/graphql-with-react-course/,
+76,Master Java Web Services and RESTful API with Spring Boot,Build Java Web Services & REST API - RESTful & SOAP - with Spring & Spring Boot. Learn REST API & SOAP Web Services Now!,in28Minutes Official,4.4,Not Available,"(6,706)","9.5 total hours
+109 lectures
+All Levels",https://www.udemy.com/course/spring-web-services-tutorial/,
+77,JavaScript: The Advanced Concepts,Learn modern advanced JavaScript practices and be in the top 10% of JavaScript developers,Andrei Neagoie,4.7,Not Available,"(6,642)","25 total hours
+225 lectures
+All Levels",https://www.udemy.com/course/advanced-javascript-concepts/,
+78,Git a Web Developer Job: Mastering the Modern Workflow,"Learn Git, GitHub, Node.js, NPM, Object-oriented JavaScript, ES6, webpack, Netlify, BEM and Job Interview Tips",Brad Schiff,4.7,Not Available,"(6,265)","15 total hours
+71 lectures
+Beginner",https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/,
+79,Build Websites from Scratch with HTML & CSS,Learn Web Development Essentials and Become a Web Developer From Scratch in this Complete HTML & CSS Beginner's Course,"Brad Hussey, Code College",4.6,Not Available,"(6,128)","8 total hours
+77 lectures
+Beginner",https://www.udemy.com/course/build-website-scratch/,
+80,AWS CloudFormation Master Class,Write Complete AWS CloudFormation Templates using YAML. Learn all the Recent Cloud Formation Features,Stephane Maarek | AWS Certified Solutions Architect & Developer Associate,4.7,Bestseller,"(6,128)","3.5 total hours
+70 lectures
+All Levels",https://www.udemy.com/course/aws-cloudformation-master-class/,
+81,The Complete Developers Guide to MongoDB,Master MongoDB and Mongoose design with a test-driven approach,Stephen Grider,4.4,Not Available,"(5,993)","13.5 total hours
+129 lectures
+All Levels",https://www.udemy.com/course/the-complete-developers-guide-to-mongodb/,
+82,Angular Front To Back,Master Angular 5 from the basics to building an advanced application with Firebase's Firestore as well as authentication,Brad Traversy,4.6,Not Available,"(5,922)","11.5 total hours
+73 lectures
+All Levels",https://www.udemy.com/course/angular-4-front-to-back/,
+83,React Front To Back,"Learn Modern React 16.8+ Including Hooks, Context API, Full Stack MERN & Redux By Building Real Life Projects",Brad Traversy,4.7,Not Available,"(5,822)","14 total hours
+91 lectures
+All Levels",https://www.udemy.com/course/modern-react-front-to-back/,
+84,Javascript for Beginners Learn by Doing Practical Exercises,JavaScript for Beginners : Work closely with me doing exercises & learn more. I make Javascript easy for you guaranteed.,"Edwin Diaz, Coding Faculty Solutions",4.4,Not Available,"(5,697)","3.5 total hours
+30 lectures
+All Levels",https://www.udemy.com/course/javascript-for-beginners-introduction-learn-fast-easy/,
+85,"Angular (Full App) with Angular Material, Angularfire & NgRx","Use Angular, Angular Material, Angularfire (+ Firebase with Firestore) and NgRx to build a real Angular App","Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",4.7,Bestseller,"(5,689)","11.5 total hours
+140 lectures
+All Levels",https://www.udemy.com/course/angular-full-app-with-angular-material-angularfire-ngrx/,
+86,The Complete Junior to Senior Web Developer Roadmap (2021),Go from Junior Developer to Senior Developer. Learn all the technical skills Senior Web Developers know in 2021!,Andrei Neagoie,4.7,Not Available,"(5,655)","36.5 total hours
+421 lectures
+Intermediate",https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/,
+87,Web Development w/ Google’s Go (golang) Programming Language,Learn Web Programming from a University Professor in Computer Science with over 15 years of teaching experience.,Todd McLeod,4.6,Not Available,"(5,315)","19 total hours
+171 lectures
+Intermediate",https://www.udemy.com/course/go-programming-language/,
+88,The Web Developer Bootcamp 2020,Not Available,Colt Steele,4.7,Not Available,"(187,102)",Not Available,https://www.udemy.com/course/the-web-developer-bootcamp/,
+89,Angular - The Complete Guide (2020 Edition),Not Available,Maximilian Schwarzmüller,4.6,Bestseller,"(132,916)",Not Available,https://www.udemy.com/course/the-complete-guide-to-angular-2/,
+90,The Complete JavaScript Course 2020: From Zero to Expert!,Not Available,Jonas Schmedtmann,4.6,Bestseller,"(87,346)",Not Available,https://www.udemy.com/course/the-complete-javascript-course/,
+91,,Not Available,,,Not Available,,Not Available,https://www.udemy.com/course/how-to-become-a-web-developer-from-scratch/,
+92,The Web Developer Bootcamp 2020,Not Available,Not Available,4.7,Not Available,"(187,102)",Not Available,https://www.udemy.com/course/the-web-developer-bootcamp/,
+93,"Git Complete: The definitive, step-by-step guide to Git",Not Available,Not Available,4.4,Not Available,"(14,252)",Not Available,https://www.udemy.com/course/git-complete/,
+94,The Complete Elixir and Phoenix Bootcamp,Master Functional Programming techniques with Elixir and Phoenix while learning to build compelling web applications!,Stephen Grider,4.5,Bestseller,"(5,287)","17.5 total hours
+152 lectures
+All Levels",https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/,
+95,Node JS: Advanced Concepts,"Get advanced with Node.Js! Learn caching with Redis, speed up through clustering, and add image upload with S3 and Node!",Stephen Grider,4.7,Not Available,"(5,283)","16 total hours
+166 lectures
+Intermediate",https://www.udemy.com/course/advanced-node-for-developers/,
+96,The Complete 2020 Web Development Course - Build 15 Projects,"The only course you need to become a full-stack web developer. Covers HTML5, CSS3, JS, ES6, Node, APIs, Mobile & more!",Development Island (UK),4.5,Not Available,"(5,271)","99.5 total hours
+504 lectures
+All Levels",https://www.udemy.com/course/complete-web-development-course/,
+97,"Node.js, Express, MongoDB & More: The Complete Bootcamp 2020","Master Node by building a real-world RESTful API and web app (with authentication, Node.js security, payments & more)",Jonas Schmedtmann,4.7,Not Available,"(5,139)","42 total hours
+228 lectures
+All Levels",https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/,
+98,Advanced Javascript,In only seven hours you will learn enough javascript to transform from a Junior JS Dev into a Senior JS Guru,Asim Hussain,4.6,Not Available,"(5,131)","6.5 total hours
+47 lectures
+Intermediate",https://www.udemy.com/course/javascript-advanced/,
+99,Modern JavaScript (from Novice to Ninja),Create awesome JavaScript driven web apps with modern JavaScript from the very beginning right through to ninja-level.,The Net Ninja (Shaun Pelling),4.8,Not Available,"(5,126)","19 total hours
+173 lectures
+All Levels",https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/,
+100,JavaScript Beginner Bootcamp (2020),"JavaScript for Beginners: Projects based learning, whiteboard animations, coding in the browser and quizzes.",Rob Merrill,4.5,Not Available,"(5,045)","38.5 total hours
+388 lectures
+Beginner",https://www.udemy.com/course/javascript-the-basics-for-beginners/,
+101,Django 2.2 & Python | The Ultimate Web Development Bootcamp,"Build three complete websites, learn back and front-end web development, and publish your site online with DigitalOcean",Nick Walter,4.5,Not Available,"(4,942)","10 total hours
+78 lectures
+Beginner",https://www.udemy.com/course/the-ultimate-beginners-guide-to-django-django-2-python-web-dev-website/,
+102,Go Java Full Stack with Spring Boot and Angular,Become a Full Stack Java Developer. Build Your First Java Full Stack Application with Angular and Spring Boot.,in28Minutes Official,4.5,Not Available,"(4,918)","11 total hours
+124 lectures
+All Levels",https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/,
+103,Webpack 2: The Complete Developer's Guide,"Master Webpack 2 as you deploy web apps supported by Babel, code splitting, and ES2015 Modules.",Stephen Grider,4.6,Not Available,"(4,836)","5.5 total hours
+56 lectures
+All Levels",https://www.udemy.com/course/webpack-2-the-complete-developers-guide/,
+104,Python and Flask Bootcamp: Create Websites using Flask!,Create awesome websites using the powerful Flask framework for Python!,Jose Portilla,4.6,Not Available,"(4,807)","20 total hours
+127 lectures
+All Levels",https://www.udemy.com/course/python-and-flask-bootcamp-create-websites-using-flask/,
+105,Nuxt.js - Vue.js on Steroids,Build highly engaging Vue JS apps with Nuxt.js. Nuxt adds easy server-side-rendering and a folder-based config approach.,"Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",4.7,Bestseller,"(4,620)","6.5 total hours
+106 lectures
+Intermediate",https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/,
+106,The Complete 2020 Fullstack Web Developer Course,"Learn HTML5, CSS3, JavaScript, Python, Wagtail CMS, PHP & MySQL from scratch!",Kalob Taulien,4.6,Not Available,"(4,610)","67 total hours
+695 lectures
+All Levels",https://www.udemy.com/course/thecompletewebdeveloper/,
+107,Learn Responsive Web Development from Scratch,A Comprehensive Course on Responsive Web Design and Twitter Bootstrap 3,"Eduonix Learning Solutions, Eduonix-Tech .",4.1,Not Available,"(4,500)","4.5 total hours
+25 lectures
+All Levels",https://www.udemy.com/course/learn-responsive-web-development-from-scratch/,
+108,Complete Python Web Course: Build 8 Python Web Apps,Build Python Web Applications from Beginner to Expert using Python and Flask,"Jose Salvatierra, Teclado by Jose Salvatierra",4.4,Not Available,"(4,405)","15.5 total hours
+160 lectures
+All Levels",https://www.udemy.com/course/the-complete-python-web-course-learn-by-building-8-apps/,
+109,Accelerated ES6 JavaScript Training,Learn and Use the Future of JavaScript - Today!,Maximilian Schwarzmüller,4.7,Not Available,"(4,405)","6 total hours
+115 lectures
+Intermediate",https://www.udemy.com/course/es6-bootcamp-next-generation-javascript/,
+110,The Web Developer Bootcamp 2020,Not Available,Colt Steele,4.7,Not Available,"(187,102)",Not Available,https://www.udemy.com/course/the-web-developer-bootcamp/,
+111,Angular - The Complete Guide (2020 Edition),Not Available,Maximilian Schwarzmüller,4.6,Bestseller,"(132,916)",Not Available,https://www.udemy.com/course/the-complete-guide-to-angular-2/,
+112,The Complete JavaScript Course 2020: From Zero to Expert!,Not Available,Jonas Schmedtmann,4.6,Bestseller,"(87,346)",Not Available,https://www.udemy.com/course/the-complete-javascript-course/,
+113,,Not Available,,,Not Available,,Not Available,https://www.udemy.com/course/how-to-become-a-web-developer-from-scratch/,
+114,The Web Developer Bootcamp 2020,Not Available,Not Available,4.7,Not Available,"(187,102)",Not Available,https://www.udemy.com/course/the-web-developer-bootcamp/,
+115,"Git Complete: The definitive, step-by-step guide to Git",Not Available,Not Available,4.4,Not Available,"(14,252)",Not Available,https://www.udemy.com/course/git-complete/,
+116,Build a Real-world App with ASP.NET Core and Angular 2 (4+),"Build a full-stack web app with ASP.NET Core, Entity Framework Core and Angular 2 (Angular 4+)",Mosh Hamedani,4.3,Not Available,"(4,398)","10.5 total hours
+162 lectures
+Intermediate",https://www.udemy.com/course/aspnet-core-angular/,
+117,Web Development Masterclass - Complete Certificate Course,Learn to setup virtual cloud servers and develop database-driven websites using the latest web technologies.,YouAccel Training,4.3,Not Available,"(4,373)","20.5 total hours
+367 lectures
+All Levels",https://www.udemy.com/course/web-development-masterclass-complete-certificate-course/,
+118,Accelerated JavaScript Training,"Take a deep dive into JavaScript, a Must-Know Language in Web Development, with a Hands-on, Example-driven Approach",Maximilian Schwarzmüller,4.6,Not Available,"(4,368)","7.5 total hours
+128 lectures
+All Levels",https://www.udemy.com/course/javascript-bootcamp-2016/,
+119,React JS Web Development - The Essentials Bootcamp,"Bootcamp on the React.js essentials. Gain a strong foundation of the core concepts, and build exciting and useful apps!",David Joseph Katz,4.3,Not Available,"(4,362)","11 total hours
+125 lectures
+All Levels",https://www.udemy.com/course/react-js-and-redux-mastering-web-apps/,
+120,"The Modern React Bootcamp (Hooks, Context, NextJS, Router)",Just published! Follow the same curriculum I teach my students in SF. 10+ projects including one HUGE application!,Colt Steele,4.7,Not Available,"(4,345)","39 total hours
+312 lectures
+Beginner",https://www.udemy.com/course/modern-react-bootcamp/,
+121,Microservices with Node JS and React,"Build, deploy, and scale an E-Commerce app using Microservices built with Node, React, Docker and Kubernetes",Stephen Grider,4.7,Bestseller,"(3,984)","54 total hours
+610 lectures
+All Levels",https://www.udemy.com/course/microservices-with-node-js-and-react/,
+122,Master Hibernate and JPA with Spring Boot in 100 Steps,"Learn Hibernate, JPA (Java Persistence API) and Spring Data JPA using Spring and Spring Boot",in28Minutes Official,4.4,Bestseller,"(3,922)","13 total hours
+156 lectures
+All Levels",https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/,
+123,Python Django Dev To Deployment,Learn Python and build & deploy a real estate application using the Django framework & PostgreSQL,Brad Traversy,4.6,Not Available,"(3,886)","11 total hours
+70 lectures
+Intermediate",https://www.udemy.com/course/python-django-dev-to-deployment/,
+124,NestJS Zero to Hero - Modern TypeScript Back-end Development,Develop and deploy enterprise back-end applications following best practices using Node.js and TypeScript,Ariel Weinberger,4.7,Bestseller,"(3,838)","8.5 total hours
+132 lectures
+All Levels",https://www.udemy.com/course/nestjs-zero-to-hero/,
+125,The Complete Web Developer Masterclass: Beginner To Advanced,In this complete masterclass course students will learn how to build their very own website from scratch through example,"Joe Parys, Shahzaib Kamal, Joe Parys Support",4.4,Not Available,"(3,764)","51 total hours
+316 lectures
+All Levels",https://www.udemy.com/course/webdevelopercourse/,
+126,Deep Learning and NLP A-Z™: How to create a ChatBot,Learn the Theory and How to implement state of the art Deep Natural Language Processing models in Tensorflow and Python,"Hadelin de Ponteves, Kirill Eremenko, SuperDataScience Team, Zillion Hand Team",4.4,Bestseller,"(3,598)","12 total hours
+96 lectures
+All Levels",https://www.udemy.com/course/chatbot/,
+127,20 Web Projects With Vanilla JavaScript,"Build 20 mini frontend projects from scratch with HTML5, CSS & JavaScript (No frameworks or libraries)",Brad Traversy,4.8,Not Available,"(3,597)","16 total hours
+121 lectures
+All Levels",https://www.udemy.com/course/web-projects-with-vanilla-javascript/,
+128,Learn Spring Boot in 100 Steps - Beginner to Expert,Become an expert on Spring Boot developing a REST API and a Spring MVC Web application using Maven in 100 steps,in28Minutes Official,4.2,Not Available,"(3,578)","13.5 total hours
+127 lectures
+All Levels",https://www.udemy.com/course/spring-boot-tutorial-for-beginners/,
+129,Salesforce Development Training for Beginners,Salesforce Development :Learn about Apex programming and Salesforce development. Become a Salesforce Developer.,Deepika Khanna,4.4,Bestseller,"(3,526)","14 total hours
+111 lectures
+All Levels",https://www.udemy.com/course/learn-salesforce-apex-basic-to-advance/,
+130,Build Web Apps with Vue JS 2 & Firebase,Learn Vue JS & Firebase by creating & deploying dynamic web apps (including Authentication).,The Net Ninja (Shaun Pelling),4.8,Not Available,"(3,513)","11.5 total hours
+118 lectures
+All Levels",https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/,
+131,Responsive Web Design: HTML5 + CSS3 for Entrepreneurs 2018,"Build a coding foundation as an entrepreneur, where I’ll take you through the entire process of coding your own website",Andrew Eddy,4.5,Not Available,"(3,461)","5.5 total hours
+58 lectures
+Beginner",https://www.udemy.com/course/html-css-more/,
+132,The Web Developer Bootcamp 2020,Not Available,Colt Steele,4.7,Not Available,"(187,102)",Not Available,https://www.udemy.com/course/the-web-developer-bootcamp/,
+133,Angular - The Complete Guide (2020 Edition),Not Available,Maximilian Schwarzmüller,4.6,Bestseller,"(132,916)",Not Available,https://www.udemy.com/course/the-complete-guide-to-angular-2/,
+134,The Complete JavaScript Course 2020: From Zero to Expert!,Not Available,Jonas Schmedtmann,4.6,Bestseller,"(87,346)",Not Available,https://www.udemy.com/course/the-complete-javascript-course/,
+135,,Not Available,,,Not Available,,Not Available,https://www.udemy.com/course/how-to-become-a-web-developer-from-scratch/,
+136,The Web Developer Bootcamp 2020,Not Available,Not Available,4.7,Not Available,"(187,102)",Not Available,https://www.udemy.com/course/the-web-developer-bootcamp/,
+137,"Git Complete: The definitive, step-by-step guide to Git",Not Available,Not Available,4.4,Not Available,"(14,252)",Not Available,https://www.udemy.com/course/git-complete/,
+138,Object Oriented PHP & MVC,Build a custom object oriented PHP MVC framework and then build an application with it,Brad Traversy,4.7,Not Available,"(3,367)","6.5 total hours
+44 lectures
+Intermediate",https://www.udemy.com/course/object-oriented-php-mvc/,
+139,The Complete 2020 PHP Full Stack Web Developer Bootcamp,"Learn to build websites with HTML , CSS , JAVASCRIPT , Bootstrap , PHP , MySQL , WordPress , OOP & more!",Srinivas Vanamala,4.5,Not Available,"(3,308)","49 total hours
+309 lectures
+Beginner",https://www.udemy.com/course/the-complete-php-full-stack-web-developer-bootcamp/,
+140,"Build Responsive Website Using HTML5, CSS3, JS And Bootstrap","Learn HTML5, CSS3, JavaScript, jQuery and Bootstrap framework by building a modern looking responsive website.",Irfan Dayan,4.2,Not Available,"(3,282)","8 total hours
+75 lectures
+All Levels",https://www.udemy.com/course/build-responsive-website-using-html5-css3-js-and-bootstrap/,
+141,"HTML, CSS, & JavaScript - Certification Course for Beginners","A Comprehensive Guide for Beginners interested in learning HTML, CSS, & JavaScript to Build Interactive Web Pages.",YouAccel Training,4.2,Not Available,"(3,242)","5.5 total hours
+113 lectures
+Beginner",https://www.udemy.com/course/html-css-javascript-certification-course-for-beginners/,
+142,Front End Web Development For Beginners (A Practical Guide),"Learn Front-End Web Development: Quickly Master HTML5, CSS3, JS, Bootstrap: By Building A Project From Scratch",Learn Tech Plus,4.2,Not Available,"(3,178)","34 total hours
+383 lectures
+Beginner",https://www.udemy.com/course/learn-front-end-development/,
+143,AngularJS JumpStart with Dan Wahlin,Building Web applications? Learn to build robust Single Page Applications (SPAs) with the popular AngularJS framework!,Dan Wahlin,4.5,Not Available,"(3,173)","10 total hours
+113 lectures
+All Levels",https://www.udemy.com/course/angularjs-jumpstart/,
+144,Become a Web Developer from Scratch,This course covers all you need to know about becoming a top skilled web developer even if you never programmed before!,Victor Bastos,4.3,Not Available,"(3,103)","26.5 total hours
+190 lectures
+All Levels",https://www.udemy.com/course/how-to-become-a-web-developer-from-scratch/,
+145,Build a Backend REST API with Python & Django - Advanced,"Create an advanced REST API with Python, Django REST Framework and Docker using Test Driven Development (TDD)","Mark Winterbottom, Brooke Rutherford",4.5,Bestseller,"(3,075)","8 total hours
+77 lectures
+Intermediate",https://www.udemy.com/course/django-python-advanced/,
+146,PHP OOP: Object Oriented Programming for beginners + Project,PHP OOP: Learn OOP PHP and Take your skills to another level. Make serious money by building awesome applications.,"Edwin Diaz, Coding Faculty Solutions",4.5,Not Available,"(3,043)","18.5 total hours
+224 lectures
+All Levels",https://www.udemy.com/course/oop-php-object-oriented-programing-with-project-1-course/,
+147,"React, NodeJS, Express & MongoDB - The MERN Fullstack Guide","Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN) with this project-focused course.","Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller, Manuel Lorenz",4.7,Not Available,"(3,031)","19 total hours
+206 lectures
+All Levels",https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/,
+148,Build a Backend REST API with Python & Django - Beginner,Finally create that App + fully-functioning user database in this crash course to building a REST API,"Mark Winterbottom, Brooke Rutherford",4.6,Not Available,"(2,977)","5 total hours
+76 lectures
+Beginner",https://www.udemy.com/course/django-python/,
+149,Learn JavaScript for Web Development,Advance your Web Development Skills By Learning Javascript from JavaScript Expert!,Irfan Dayan,4.4,Not Available,"(2,958)","8.5 total hours
+95 lectures
+Intermediate",https://www.udemy.com/course/javascript-learn-javascript-essentials-and-build-project/,
+150,Learn JavaScript: Full-Stack from Scratch,"Understand the JavaScript language itself, Node.js, MongoDB, The Web Browser and More To Create Meaningful Applications",Brad Schiff,4.7,Not Available,"(2,931)","27 total hours
+119 lectures
+All Levels",https://www.udemy.com/course/learn-javascript-full-stack-from-scratch/,
+151,Server Side Rendering with React and Redux,"Build React, Redux, and React Router apps using Server Side Rendering (SSR), Isomorphic, and Universal JS techniques",Stephen Grider,4.7,Not Available,"(2,926)","8 total hours
+94 lectures
+Intermediate",https://www.udemy.com/course/server-side-rendering-with-react-and-redux/,
+152,Web Development - Complete Fast Track Course,"Become a full-stack web developer in a month. Master HTML, CSS, Javascript, JQuery, PHP, MySQL and more!",Ruben Giuliani,3.9,Not Available,"(2,919)","29.5 total hours
+73 lectures
+All Levels",https://www.udemy.com/course/web-development-fast-track/,
+153,The Complete ServiceNow Developer Course,Learn how to develop on the ServiceNow platform!,Mark Miller,4.4,Bestseller,"(2,918)","8.5 total hours
+57 lectures
+Intermediate",https://www.udemy.com/course/servicenow-201-development/,
+154,The Web Developer Bootcamp 2020,Not Available,Colt Steele,4.7,Not Available,"(187,102)",Not Available,https://www.udemy.com/course/the-web-developer-bootcamp/,
+155,Angular - The Complete Guide (2020 Edition),Not Available,Maximilian Schwarzmüller,4.6,Bestseller,"(132,916)",Not Available,https://www.udemy.com/course/the-complete-guide-to-angular-2/,
+156,The Complete JavaScript Course 2020: From Zero to Expert!,Not Available,Jonas Schmedtmann,4.6,Bestseller,"(87,346)",Not Available,https://www.udemy.com/course/the-complete-javascript-course/,
+157,,Not Available,,,Not Available,,Not Available,https://www.udemy.com/course/how-to-become-a-web-developer-from-scratch/,
+158,The Web Developer Bootcamp 2020,Not Available,Not Available,4.7,Not Available,"(187,102)",Not Available,https://www.udemy.com/course/the-web-developer-bootcamp/,
+159,"Git Complete: The definitive, step-by-step guide to Git",Not Available,Not Available,4.4,Not Available,"(14,252)",Not Available,https://www.udemy.com/course/git-complete/,
+160,Python eCommerce | Build a Django eCommerce Web Application,Launch your business by learning to build your own eCommerce app step-by-step.,Justin Mitchel,4.3,Not Available,"(2,776)","33 total hours
+223 lectures
+All Levels",https://www.udemy.com/course/python-ecommerce-build-a-django-ecommerce-web-application/,
+161,Mastering data visualization in D3.js [2020 UPDATE],Design and build beautiful data visualizations with d3.js. An intensive introduction to the D3 library (V6).,Adam Janes,4.4,Bestseller,"(2,772)","6.5 total hours
+95 lectures
+Intermediate",https://www.udemy.com/course/masteringd3js/,
+162,The Complete Full-Stack JavaScript Course!,"Learn full-stack web development using JavaScript (ReactJS, NodeJS, LoopbackJS, Redux and Material-UI)!","Joseph Delgadillo, Nick Germaine",4.3,Not Available,"(2,768)","24.5 total hours
+96 lectures
+All Levels",https://www.udemy.com/course/full-stack-javascript/,
+163,Dissecting Ruby on Rails 5 - Become a Professional Developer,"Don't simply follow a tutorial, learn what it really takes to become a pro Rails developer with this immersive course.",Jordan Hudgens,4.7,Not Available,"(2,725)","43 total hours
+246 lectures
+All Levels",https://www.udemy.com/course/professional-rails-5-development-course/,
+164,ChatBots: Messenger ChatBot - DialogFlow and nodejs,Use DialogFlow to train chatbot to have dialogs. Develop backend app to connect chatbot to web services and databases,Jana Bergant,4.2,Bestseller,"(2,696)","9.5 total hours
+119 lectures
+All Levels",https://www.udemy.com/course/chatbots/,
+165,Object-oriented Programming in JavaScript,"Learn all about OOP, understand the most confusing parts of JavaScript and prepare for technical interviews",Mosh Hamedani,4.6,Not Available,"(2,690)","4 total hours
+64 lectures
+Intermediate",https://www.udemy.com/course/javascript-object-oriented-programming/,
+166,Electron for Desktop Apps: The Complete Developer's Guide,Use the Electron Framework to build compelling cross platform desktop applications with the latest web dev technologies,Stephen Grider,4.5,Not Available,"(2,666)","8 total hours
+77 lectures
+Beginner",https://www.udemy.com/course/electron-react-tutorial/,
+167,Node.js API Masterclass With Express & MongoDB,Create a real world backend for a bootcamp directory app,Brad Traversy,4.8,Not Available,"(2,644)","12 total hours
+76 lectures
+Intermediate",https://www.udemy.com/course/nodejs-api-masterclass/,
+168,Practical Web Development: 22 Courses in 1,"Learn PHP, Apache, MySQL, MongoDB, Python, JavaScript, XML, JSON, HTML, CSS, Wordpress and more. With practical examples",Creative Online School,4.3,Not Available,"(2,604)","11.5 total hours
+149 lectures
+All Levels",https://www.udemy.com/course/the-complete-web-development-course/,
+169,"JSP, Servlet, JSLT + Hibernate: A complete guide",A JSP (Java server pages) & Servlet + Hibernate: Quick course,"StudyEasy Organisation, Chaand Sheikh",4.5,Not Available,"(2,582)","13 total hours
+137 lectures
+Intermediate",https://www.udemy.com/course/jsp-servlet-free-course/,
+170,"HTML, JavaScript, & Bootstrap - Certification Course","A Comprehensive Guide for Beginners interested in learning HTML, JavaScript, & Bootstrap. Build Interactive Web Pages.",YouAccel Training,4.3,Not Available,"(2,580)","6.5 total hours
+124 lectures
+Beginner",https://www.udemy.com/course/html-javascript-bootstrap-certification-course/,
+171,Complete guide to building an app with .Net Core and React,"The complete guide to building an app from start to finish using ASP.NET Core, React (with Typescript) and Mobx",Neil Cummings,4.5,Bestseller,"(2,492)","37.5 total hours
+337 lectures
+All Levels",https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react/,
+172,RxJs 6 In Practice (with FREE E-Book),"Learn numerous RxJs Operators, learn all RxJs and Reactive Programming core concepts via Practical Examples",Angular University,4.6,Bestseller,"(2,481)","4.5 total hours
+46 lectures
+All Levels",https://www.udemy.com/course/rxjs-course/,
+173,Complete WordPress Theme & Plugin Development Course [2020],Everything you need to become a hirable WordPress Developer building custom themes and plugins,Zac Gordon,4.4,Not Available,"(2,441)","16 total hours
+176 lectures
+All Levels",https://www.udemy.com/course/wordpress-theme-and-plugin-development-course/,
+174,Bash Shell Scripting: Crash Course For Beginners,"Learn Bash Shell Scripting from total beginner:Start from the Command Line,finish with a real world Shell Script Project",Francesco Santi,4.6,Not Available,"(2,427)","5.5 total hours
+75 lectures
+All Levels",https://www.udemy.com/course/bash-shell-scripting-crash-course-for-beginners/,
+175,Master Java Unit Testing with Spring Boot & Mockito,"Learn to write awesome Java JUnit unit tests with Spring Boot, Mockito, JsonAssert, Hamcrest & JsonPath in 40 easy steps",in28Minutes Official,4.5,Not Available,"(2,423)","4 total hours
+55 lectures
+All Levels",https://www.udemy.com/course/learn-unit-testing-with-spring-boot/,
+176,The Web Developer Bootcamp 2020,Not Available,Colt Steele,4.7,Not Available,"(187,102)",Not Available,https://www.udemy.com/course/the-web-developer-bootcamp/,
+177,Angular - The Complete Guide (2020 Edition),Not Available,Maximilian Schwarzmüller,4.6,Bestseller,"(132,916)",Not Available,https://www.udemy.com/course/the-complete-guide-to-angular-2/,
+178,The Complete JavaScript Course 2020: From Zero to Expert!,Not Available,Jonas Schmedtmann,4.6,Bestseller,"(87,346)",Not Available,https://www.udemy.com/course/the-complete-javascript-course/,
+179,,Not Available,,,Not Available,,Not Available,https://www.udemy.com/course/how-to-become-a-web-developer-from-scratch/,
+180,The Web Developer Bootcamp 2020,Not Available,Not Available,4.7,Not Available,"(187,102)",Not Available,https://www.udemy.com/course/the-web-developer-bootcamp/,
+181,"Git Complete: The definitive, step-by-step guide to Git",Not Available,Not Available,4.4,Not Available,"(14,252)",Not Available,https://www.udemy.com/course/git-complete/,
+182,The Complete Sass & SCSS Course: From Beginner to Advanced,No more cluttered CSS! Realize clean designs lightning-fast and without frustration using Sass & SCSS.,"Joe Parys, Peter Sommerhoff, Joe Parys Support",4.4,Not Available,"(2,413)","4 total hours
+41 lectures
+All Levels",https://www.udemy.com/course/sasscourse/,
+183,The Full Stack Web Development,Learn Full Stack Web Development Building Over 40+ Projects,"Eduonix Learning Solutions, Eduonix-Tech ., Samy Eduonix",4.4,Not Available,"(2,382)","33 total hours
+208 lectures
+Beginner",https://www.udemy.com/course/the-full-stack-web-development/,
+184,Build a Social Network from Scratch: JavaScript PHP + MySQL,"Learn JavaScript, PHP and MySQL by building the ultimate social network website from scratch! The complete guide!",Reece Kenney,4.6,Not Available,"(2,357)","16.5 total hours
+179 lectures
+All Levels",https://www.udemy.com/course/make-a-social-media-website/,
+185,Complete ASP NET MVC Web Development - Newbie to Ninja!,Quickly Learn Web Development with ASP NET MVC and C#. From absolute basics to ninja! Learn C# and MVC like a Pro,Brett Hargreaves,4.2,Not Available,"(2,345)","15.5 total hours
+92 lectures
+All Levels",https://www.udemy.com/course/better-web-development-pro-techniques-for-success/,
+186,Docker for Developers and DevOps,Use Docker to streamline your developer workflow and build out a awesome CI/CD pipeline,Luke Angel,3.9,Not Available,"(2,344)","5.5 total hours
+82 lectures
+Beginner",https://www.udemy.com/course/docker-for-developers/,
+187,Full Stack Java developer - Java + JSP + Restful WS + Spring,Full Stack Java developer - Core Java + JSP Servlets + Hibernate +Spring + Java Web-service/RestFul API + Spring boot.,"StudyEasy Organisation, Chaand Sheikh",4.3,Bestseller,"(2,329)","64.5 total hours
+604 lectures
+All Levels",https://www.udemy.com/course/full-stack-java-developer-java/,
+188,"Master Electron: Desktop Apps with HTML, JavaScript & CSS","The Complete Electron course for learning to build Cross Platform Desktop Apps using HTML, JavaScript & CSS",Ray Viljoen,4.7,Bestseller,"(2,325)","8 total hours
+61 lectures
+All Levels",https://www.udemy.com/course/master-electron/,
+189,The Complete jQuery Course: From Beginner To Advanced!,"Use jQuery to create stunning animations, provide fast feedback forms, handle all user events and perform Ajax calls.","Joe Parys, Peter Sommerhoff, Joe Parys Support",4.4,Bestseller,"(2,312)","6 total hours
+51 lectures
+All Levels",https://www.udemy.com/course/jquery-tutorial/,
+190,NgRx (with NgRx Data) - The Complete Guide (FREE E-Book),"Learn the modern NgRx Ecosystem, including NgRx Data, Store, Effects, Router Store, NgRx Entity, and DevTools",Angular University,4.5,Not Available,"(2,312)","6.5 total hours
+52 lectures
+All Levels",https://www.udemy.com/course/ngrx-course/,
+191,"React JS, Angular & Vue JS - Quickstart & Comparison","Angular (Angular 2+), React or Vue? Get a Crash Course on each of them and a detailed comparison!","Maximilian Schwarzmüller, Academind by Maximilian Schwarzmüller",4.6,Not Available,"(2,286)","8 total hours
+144 lectures
+Beginner",https://www.udemy.com/course/angular-reactjs-vuejs-quickstart-comparison/,
+192,Learn PHP Fundamentals From Scratch,A Short Course on PHP Basics,"Eduonix Learning Solutions, Eduonix-Tech .",4.0,Not Available,"(2,225)","2 total hours
+10 lectures
+Beginner",https://www.udemy.com/course/learn-php-fundamentals-from-scratch/,
+193,The Bootstrap 4 Bootcamp,"Learn to build beautiful responsive websites with the latest Bootstrap version (4.1.3), Flexbox, HTML5, and CSS3!",Colt Steele,4.7,Not Available,"(2,157)","11.5 total hours
+87 lectures
+Beginner",https://www.udemy.com/course/bootstrap-4-bootcamp/,
+194,REST WCF Service in ASP.NET,Learn how to build a RESTful WCF Service in an ASP.NET web application and call its methods with JQuery.,Patrick God,4.2,Not Available,"(2,126)","41 total mins
+5 lectures
+All Levels",https://www.udemy.com/course/rest-wcf-service-in-aspnet/,
+195,Become a Certified Web Developer,"Complete coverage of HTML, CSS, Javascript and PHP while you Earn Four Respected Certificatons","Framework Television Inc., Mark Lassoff",4.6,Not Available,"(2,101)","45.5 total hours
+522 lectures
+All Levels",https://www.udemy.com/course/become-a-certified-web-developer/,
+196,The Complete PHP MYSQL Professional Course with 5 Projects,Learn PHP MYSQL by building 5 Projects including PHP Regular Expressions & CMS | Become a Full Stack Back-End Developer.,Jazeb Akram,4.3,Not Available,"(2,070)","20 total hours
+154 lectures
+All Levels",https://www.udemy.com/course/the-complete-php-mysql-professional-course/,
+197,The Complete React Js & Redux Course - Build Modern Web Apps,"Go from Beginner to React Js Expert by building an Instagram Like Web App with React 16, React Router, Redux & Firebase!","Codestars by Rob Percival, Rayan Slim, Rob Percival, Jad Slim",4.3,Not Available,"(2,048)","8.5 total hours
+71 lectures
+All Levels",https://www.udemy.com/course/the-complete-react-js-redux-course-build-modern-web-apps/,
+198,The Web Developer Bootcamp 2020,Not Available,Colt Steele,4.7,Not Available,"(187,102)",Not Available,https://www.udemy.com/course/the-web-developer-bootcamp/,
+199,Angular - The Complete Guide (2020 Edition),Not Available,Maximilian Schwarzmüller,4.6,Bestseller,"(132,916)",Not Available,https://www.udemy.com/course/the-complete-guide-to-angular-2/,
+200,The Complete JavaScript Course 2020: From Zero to Expert!,Not Available,Jonas Schmedtmann,4.6,Bestseller,"(87,346)",Not Available,https://www.udemy.com/course/the-complete-javascript-course/,
+201,,Not Available,,,Not Available,,Not Available,https://www.udemy.com/course/how-to-become-a-web-developer-from-scratch/,
+202,The Web Developer Bootcamp 2020,Not Available,Not Available,4.7,Not Available,"(187,102)",Not Available,https://www.udemy.com/course/the-web-developer-bootcamp/,
+203,"Git Complete: The definitive, step-by-step guide to Git",Not Available,Not Available,4.4,Not Available,"(14,252)",Not Available,https://www.udemy.com/course/git-complete/,
+204,Django 3 - Full Stack Websites with Python Web Development,"Build 3 stunning websites, learn Back and Front End Web Development, deploy your site with HTML5, CSS3 and Bootstrap 4",Nick Walter,4.6,Not Available,"(2,042)","8.5 total hours
+78 lectures
+Beginner",https://www.udemy.com/course/django-3-make-websites-with-python-tutorial-beginner-learn-bootstrap/,
+205,Webpack 5: The Complete Guide For Beginners,"Learn Webpack 5 from the very basics to advanced! Use Webpack with JS, CSS, npm, Babel, Node",Viktor Pyskunov,4.6,Bestseller,"(2,042)","4.5 total hours
+60 lectures
+All Levels",https://www.udemy.com/course/webpack-from-beginner-to-advanced/,
+206,Reactive Angular Course (with RxJs),"Build Angular 11 Applications in Reactive style with plain RxJs - Patterns, Anti-Patterns, Lightweight State Management",Angular University,4.6,Not Available,"(2,030)","5.5 total hours
+41 lectures
+All Levels",https://www.udemy.com/course/rxjs-reactive-angular-course/,
+207,Vue JS 2.0 - Mastering Web Apps,"Create the VueJS 2.0 apps you always wanted. Build 5 apps, learn development secrets, VueRouter, Vuex, & more!",David Joseph Katz,4.4,Not Available,"(2,029)","4.5 total hours
+69 lectures
+All Levels",https://www.udemy.com/course/vue-web-apps/,
+208,Complete guide to ASP.NET Core MVC (v3.1),"Build real world application using ASP.NET Core MVC, Entity Framework Core and ASP.NET Core Identity.",Bhrugen Patel,4.4,Not Available,"(1,984)","23 total hours
+356 lectures
+Intermediate",https://www.udemy.com/course/complete-aspnet-core-21-course/,
+209,"Python for Network Engineers: Netmiko, NAPALM, pyntc, Telnet",Program networks using Python. Learn network automation and programmability with this practical course (Cisco networks),"David Bombal, Experts with David Bombal",4.6,Not Available,"(1,974)","14 total hours
+176 lectures
+Beginner",https://www.udemy.com/course/python-for-network-engineers-netmiko-napalm-pyntc-telnet-ssh-automate/,
+210,Javascript - From Beginner to Pro-Build real world JS apps,"Master JavaScript with the most complete JavaScript course on market! 1st step to learn JS - React, Angular or Vue JS",Abhay Talreja,4.3,Not Available,"(1,951)","12.5 total hours
+85 lectures
+Beginner",https://www.udemy.com/course/javascript-from-beginner-to-pro-best-course/,
+211,ASP.Net MVC Quick Start,"Build your own public-facing CRUD (Create, Read, Update, Delete) website w/MVC and Entity Framework in a weekend.",Brian Gorman,4.3,Not Available,"(1,941)","13.5 total hours
+127 lectures
+Intermediate",https://www.udemy.com/course/aspnet-mvc-quick-start/,
+212,"Laravel 2019, the complete guide with real world projects",Build simple to advanced web applications using the PHP's most popular web framework - Completely re-recorded for 5.8,Kati Frantz,4.5,Not Available,"(1,940)","24 total hours
+196 lectures
+All Levels",https://www.udemy.com/course/best-laravel/,
+213,The Complete Web Developer Bootcamp - Beginner to Expert,"Complete web development training. Get hired by building real apps with HTML, CSS, JS, Rails in this immersive course.",Robeen Dey,3.6,Not Available,"(1,930)","21.5 total hours
+197 lectures
+All Levels",https://www.udemy.com/course/job-ready-web-developer/,
+214,Meteor and React for Realtime Apps,"Master the fundamentals of Meteor and React with this tutorial as you develop secure, dynamic apps",Stephen Grider,4.2,Bestseller,"(1,912)","9 total hours
+111 lectures
+All Levels",https://www.udemy.com/course/meteor-react-tutorial/,
+215,Write PHP Like a Pro: Build a PHP MVC Framework From Scratch,"Learn to write faster, easier to maintain, more secure PHP websites by using a model-view-controller framework",Dave Hollingworth,4.4,Bestseller,"(1,911)","3 total hours
+66 lectures
+All Levels",https://www.udemy.com/course/php-mvc-from-scratch/,
+216,The Complete JavaScript Course - Beginner to Professional,"The only course you need to become a JavaScript developer - 45 JavaScript projects, ES6, JSON, AJAX & much more!","Codestars by Rob Percival, Laurence Svekis, Rob Percival",4.3,Not Available,"(1,900)","35.5 total hours
+408 lectures
+All Levels",https://www.udemy.com/course/javascript-training/,
+217,The complete JavaScript developer: MEAN stack zero-to-hero,"Build full stack JavaScript apps with the MEAN stack, using Node.js, AngularJS 1.x, Express and MongoDB",Full Stack Training Ltd,4.3,Not Available,"(1,865)","11.5 total hours
+53 lectures
+All Levels",https://www.udemy.com/course/the-complete-javascript-developer-mean-stack-zero-to-hero/,
+218,Learn OAuth 2.0 - Get started as an API Security Expert,Just imagine what could happen to YOUR professional career if you had skills in OAuth | > 8500 satisfied students,Matthias Biehl,4.2,Not Available,"(1,863)","4 total hours
+50 lectures
+All Levels",https://www.udemy.com/course/learn-oauth-2/,
+219,Learn Nodejs by building 12 projects,Become an Expert Nodejs Developer While Building Real World Applications,"Eduonix Learning Solutions, Eduonix-Tech .",4.3,Not Available,"(1,854)","12.5 total hours
+72 lectures
+All Levels",https://www.udemy.com/course/learn-nodejs-by-building-10-projects/,
