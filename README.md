@@ -1,2 +1,3 @@
 # Recommmender-System
-This is a course recommendation System
+This is a AI based course recommender system
+
