@@ -1,10 +1,7 @@
 import pandas as pd
 import re as re
 from nltk.corpus import stopwords
-
-
 import numpy as np
-
 from gensim.models.doc2vec import Doc2Vec, TaggedDocument
 from nltk.tokenize import word_tokenize
 
