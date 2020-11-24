@@ -5,7 +5,7 @@ import numpy as np
 from gensim.models.doc2vec import Doc2Vec, TaggedDocument
 from nltk.tokenize import word_tokenize
 
-df = pd.read_csv('App_dev_desc.csv',encoding= 'unicode_escape')
+df = pd.read_csv('Datasets/App_dev_desc.csv',encoding= 'unicode_escape')
 print("Original DataFrame:")
 print(df)
 
